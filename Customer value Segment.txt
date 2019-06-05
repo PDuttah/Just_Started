@@ -90,3 +90,5 @@ A.CUSTOMERVALUESEGMENT
 FROM SONI A
 INNER JOIN [dbo].[DimCustomer] B
 ON A.[CustomerKey] = B.[CustomerKey]
+
+This will help business profile and update their customer bases into  groups 
