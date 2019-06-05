@@ -1,3 +1,1 @@
-# Just_Started
-Just started 
-select * from a table 
+Customer Value Segmentation 
